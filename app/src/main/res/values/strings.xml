@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ViewViewGroup</string>
+    <string name="content_text">Xiaomi Redmi Note 8 Pro merupakan HP dengan layar 6.5" dan tingkat densitas piksel sebesar 441ppi. Handphone ini dilengkapi dengan kamera belakang 64 + 8 + 2MP dan kamera depan 20MP. HP ini juga hadir dengan kapasitas baterai 4500mAh. Xiaomi Redmi Note 8 Pro dirilis pada 2019</string>
+    <string name="content_specs_display">Resolusi 2340 X 1080 FHD+
+        \nIPS LCD, HDR, kecerahan 500 nits
+        \n6.53 inches
+        \nFHD AMOLED at 441ppi
+        \nCorning® Gorilla® Glass 5</string>
+    <string name="content_specs_platform">Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5
+        \nMediatek Helio G90T (12nm)
+        \nOcta-core (2x2.05 GHz Cortex-A76, 6x2.0 GHz Cortex-A55)
+        \nMali-G76 MC4
+    </string>
+    <string name="content_specs_body">161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)
+        \nHybrid Dual SIM (Nano-SIM, dual stand-by)
+    </string>
+    <string name="content_specs_battery">4,500 mAh battery non-removable
+        \nFast Charging 18W wired
+        \nPort USB TYPE-C
+        \nBattery life endurance 114h
+        \nBattery life hardcore use 14-18h
+        \nBattery life for gaming 7-8h
+    </string>
+    <string name="stock">Stock tersisa 4 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="body">Body</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Ksatria Akbar</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$220</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="todo">TODO</string>
+    <string name="customer_service">Customer Service</string>
+    <string name="platform">Platform</string>
+    <string name="msg">Produk Telah Berhasil Dibeli</string>
+    <string name="size">Size</string>
+</resources>
